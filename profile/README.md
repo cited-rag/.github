@@ -1,5 +1,5 @@
 # Cited RAG
-GPT that gets you the right data from your trusted sources
+GPT that gets you the right data from your trusted sources.
 
 ### About the project
 
